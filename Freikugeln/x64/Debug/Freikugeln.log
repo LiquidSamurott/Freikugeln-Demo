@@ -1,0 +1,8 @@
+﻿  Freikugeln.cpp
+C:\Users\Kazvin T\source\repos\Freikugeln\Freikugeln\Freikugeln.cpp(320,43): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kazvin T\source\repos\Freikugeln\Freikugeln\Freikugeln.cpp(364,39): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kazvin T\source\repos\Freikugeln\Freikugeln\Freikugeln.cpp(389,37): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kazvin T\source\repos\Freikugeln\Freikugeln\Freikugeln.cpp(1391,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kazvin T\source\repos\Freikugeln\Freikugeln\Freikugeln.cpp(1530,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kazvin T\source\repos\Freikugeln\Freikugeln\Freikugeln.cpp(2768,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Freikugeln.vcxproj -> C:\Users\Kazvin T\source\repos\Freikugeln\x64\Debug\Freikugeln.exe
